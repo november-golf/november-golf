@@ -1,4 +1,4 @@
-Hi 👋 My name is Nathan
+Hi 👍🏻 I'm Nathan.
 =======================
 
 * 🌍  I'm based in the South West of England.
