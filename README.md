@@ -3,6 +3,21 @@ Hi 👋 My name is Nathan
 
 * 🌍  I'm based in the South West of England.
 
+### At a Glance:
+
+*  versatile and globally-minded
+*  diverse background ranging from publishing, education, legal services, teaching and training
+*  Experienced in roles from entry to senior & executive
+*  enriched by international travel
+*  currently learning and developing skills that will lead to a role in software engineering
+*  Curious
+*  a collaborator 
+*  effectively communicates and works with team members to achieve common goals 
+*  values co-elevation of team members and peers 
+*  welcomes feedback and suggestions  
+*  values diversity of thought 
+*  contributes a perspective to problem-solving, and positive & productive team dynamic.
+
 ### Skills
 
 
