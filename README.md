@@ -25,7 +25,7 @@ https://indygo.netlify.app (Best viewed on mobile)
   
 ###  Grew professionally: 
 
-> with roles from shop floor (Aged 16 in The trenches of a low-cost supermarket) to senior (Aged 21 senior manager in sales, training) to board room        (directorships: creative services, publishing).
+> with roles from shop floor (Aged 16 in The trenches of a low-cost supermarket) to senior (Aged 21 senior manager in sales, training) to executive        (directorships: creative services, publishing).
 
 ###  Ventured forth: 
 
@@ -35,11 +35,11 @@ https://indygo.netlify.app (Best viewed on mobile)
 
 > diversity of thought, co-elevation & growth in all forms; ideas & creativity, problem-solving.
     
-###  Current personal Rabbithole:
+###  Current personal Rabbit holes:
 
 > Black Holes, Sailing.
    
-###  Current professional Rabbitholes:
+###  Current professional Rabbit holes:
 
 > Getting hired in tech, Better Algorithms.
      
