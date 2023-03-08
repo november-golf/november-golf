@@ -1,22 +1,55 @@
 Hi 👍🏻 I'm Nathan.
 =======================
 
-* 🌍  I'm based in the South West of England.
+> Lifelong nefelibata, plagued by fascination.
+>
+>>🌍 based in the South West of England.
 
-### At a Glance:
 
-*  versatile and globally-minded
-*  diverse background ranging from publishing, education, legal services, teaching and training
-*  Experienced in roles from entry to senior & executive
-*  enriched by international travel
-*  currently learning and developing skills that will lead to a role in software engineering
-*  Curious
-*  a collaborator 
-*  effectively communicates and works with team members to achieve common goals 
-*  values co-elevation of team members and peers 
-*  welcomes feedback and suggestions  
-*  values diversity of thought 
-*  contributes a perspective to problem-solving, and positive & productive team dynamic.
+---
+
+### The Latest:
+
+Just completed a 16-week intensive Bootcamp with The School of Code where, after learning the fundamental skills of Software Engineering, I worked on a software project as part of an agile team. In four weeks we designed, built and deployed IndyGo – an application to help local independent businesses connect with consumers within a walkable distance by offering Live Deals on an interactive map:
+https://indygo.netlify.app (Best viewed on mobile)
+
+---
+
+### SNAPSHOT:
+
+
+  
+###  Been around the block: 
+
+> experience in publishing & creative services, legal services, sales, teaching and training.
+  
+###  Grew professionally: 
+
+> with roles from shop floor (Aged 16 in The trenches of a low-cost supermarket) to senior (Aged 21 senior manager in sales, training) to board room        (directorships: creative services, publishing).
+
+###  Ventured forth: 
+
+> international travel with a twist, experiencing life in other countries.
+   
+###  Values: 
+
+> diversity of thought, co-elevation & growth in all forms; ideas & creativity, problem-solving.
+    
+###  Current personal Rabbithole:
+
+> Black Holes, Sailing.
+   
+###  Current professional Rabbitholes:
+
+> Getting hired in tech, Better Algorithms.
+     
+###  No.1 Fan:
+
+> Pair-Programming, knowledge-based circular economy.
+     
+
+   
+---
 
 ### Skills
 
@@ -36,10 +69,14 @@ Hi 👍🏻 I'm Nathan.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+---
+
 ### Training
 <p align="left">
 <img src="https://www.codewars.com/users/november-golf/badges/large"/>
 </p>
+
+---
 
 ### Socials
 
