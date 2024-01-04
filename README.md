@@ -1,17 +1,36 @@
 Hi 👍🏻 I'm Nathan.
 =======================
 
-> Lifelong nefelibata, plagued by fascination.
->
->>🌍 based in the South West of England.
+> Software Engineer focussed on Full-Stack Web Applications.
+>> 🌍 based in the South West of England.
+>>> Lifelong nefelibata.
 
 
 ---
 
 ### The Latest:
 
-Just completed a 16-week intensive Bootcamp with The School of Code where, after learning the fundamental skills of Software Engineering, I worked on a software project as part of an agile team. In four weeks we designed, built and deployed IndyGo – an application to help local independent businesses connect with consumers within a walkable distance by offering Live Deals on an interactive map:
-https://indygo.netlify.app (Best viewed on mobile)
+**Current Project Highlights 🚀**
+
+**SaaS Venture at a Glance**:
+- **Mission**: Currently immersed in a collaborative SaaS project where we're leveraging TypeScript, NextJS 13, GraphQL, and OpenAI to redefine how content is created and managed.
+
+**Key Focus Areas**:
+- **Architecture Brilliance**: Engineered a multi-tenancy setup to streamline content management, ensuring it meets the diverse needs of various businesses.
+
+**Major Contributions**:
+- **Strategic Vision**: Actively contributed to shaping project goals through collaborative discussions.
+- **Design Harmony**: Translated conceptual designs into functional interfaces, employing TailwindCSS for styling.
+- **Code Mastery**: Enhanced coding skills through paired programming sessions and developed functional components using NextJS 13 and TailwindCSS.
+- **Performance Booster**: Implemented Server-Side Rendering (SSR) with NextJS 13 and TailwindCSS for optimal performance.
+- **API Prowess**: Established efficient API routes using NextJS 13's app router.
+- **Project Ownership**: Led a critical epic, ensuring dynamic rendering of components on the home page.
+- **Innovative Content Approach**: Introduced an "author feature" for diverse AI-written content, broadening its appeal.
+- **SEO Optimization**: Implemented dynamic sitemap generation in NextJS for improved SEO and navigation.
+
+**Code Management and Deployment**:
+- **Code Refinement**: Regularly maintained code, adhering to TailwindCSS best practices for consistent styling.
+- **Real-world Impact**: Successfully deployed in the cybersecurity sector, providing timely news, trends, and safety guidance.
 
 ---
 
@@ -33,7 +52,7 @@ https://indygo.netlify.app (Best viewed on mobile)
    
 ###  Values: 
 
-> diversity of thought, co-elevation & growth in all forms; ideas & creativity, problem-solving.
+> adding value, diversity of thought, co-elevation & growth; ideas & creativity, problem-solving.
     
 ###  Current personal Rabbit holes:
 
